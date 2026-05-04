@@ -7,7 +7,7 @@ public class Main {
 
         Question q1 = new Question(
             "What keyword is used to refer to a parent class?",
-            "Extends"
+            "super"
         );
 
         Question q2 = new Question(
