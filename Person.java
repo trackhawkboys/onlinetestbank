@@ -16,7 +16,17 @@ class Person {
         return name;
     }
 
+    public String setName(String name) {
+        this.name = name;
+        return name;
+    }
+
     public int getId() {
         return id;
     }
+    public String setId(int id) {
+        this.id = id;
+        return name;
+    }
+    
 }
